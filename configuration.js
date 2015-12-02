@@ -1,4 +1,4 @@
 module.exports = {
-    port: 1666,
+    port: 8000,
     say: "guise"
 }
