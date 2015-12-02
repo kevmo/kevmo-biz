@@ -1,0 +1,26 @@
+{
+  "name": "kevmo-biz",
+  "version": "1.0.0",
+  "description": "kevmo, biz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevmo/kevmo-biz.git"
+  },
+  "keywords": [
+    "kevmo",
+    "bizz"
+  ],
+  "author": "kevmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevmo/kevmo-biz/issues"
+  },
+  "homepage": "https://github.com/kevmo/kevmo-biz#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
