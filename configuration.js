@@ -1,4 +1,3 @@
-module.exports = {
-    port: 8000,
-    say: "guise"
-}
+module.exports.port = 3000;
+
+module.exports.say = "World";
